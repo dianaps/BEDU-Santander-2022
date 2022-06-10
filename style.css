@@ -1,0 +1,34 @@
+body{
+    background-color: #fffbf7;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: #46484c;
+    text-align: center;
+}
+
+p{
+    color: #8b8b8bcc;
+    font-family: verdana;
+    font-size: 20px;
+}
+
+input{
+    padding: 5px;
+}
+
+button{
+    background-color: #025157;
+    border-style: none;
+    border-radius: 5%;
+    padding: 5px;
+    color: #fff;
+}
+
+img{
+    height: 60px;
+    /* width: 100vh; */
+    display: block;
+    margin: auto;
+}
